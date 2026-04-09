@@ -20,6 +20,10 @@ import type {
   TabsParamList,
 } from './types';
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> zaara
 enableScreens();
 
 const RootStack = createNativeStackNavigator<RootStackParamList>();
