@@ -48,7 +48,7 @@ export function LoginScreen({ navigation }: Props) {
   const { colors, darkMode } = useTheme();
   const inputBg = darkMode ? colors.surface : colors.white;
   const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
+  const [password, setPassword] = useState('');        
   const [attempted, setAttempted] = useState(false);
   const [serverError, setServerError] = useState<string | null>(null);
 

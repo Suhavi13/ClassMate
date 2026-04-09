@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
     borderRadius: 25,
     padding: 20,
-    marginBottom: 100, 
+    marginBottom: 100,                                      
   },
   taskTitle: {
     fontSize: 20,

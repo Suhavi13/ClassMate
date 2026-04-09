@@ -13,7 +13,7 @@ import {
   Home, 
   BarChart2, 
   Calendar, 
-  ChevronRight,
+  ChevronRight,           
   LayoutGrid 
 } from 'lucide-react-native';
 

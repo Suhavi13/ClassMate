@@ -12,7 +12,7 @@ const Screen: React.FC<ScreenProps> = ({ children, style }) => {
       {/* View is often needed inside SafeAreaView for consistent padding */}
       <View style={[styles.container, style]}>
         {children}
-      </View>
+      </View>               
     </SafeAreaView>
   );
 };
